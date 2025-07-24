@@ -1,4 +1,4 @@
 # javascriptproject-
 this is my first repo
 <br>
-author - naveen 
+author - naveen (naveen thakur)
